@@ -10,8 +10,8 @@ eleventh83@gmail.com
 Usage:
   python inference/deepMiRGene.py -i \<input file\> -o \<output file\>
 
-input file: fasta format
-output file: 0 (true pre-miRNA) or 1 (pseudo pre-miRNA)
+- input file: fasta format
+- output file: 0 (true pre-miRNA) or 1 (pseudo pre-miRNA)
 
 
 
