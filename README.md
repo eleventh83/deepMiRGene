@@ -1,11 +1,9 @@
 # deepMiRGene
-Deep Recurrent Neural Network-Based Identification of Precursor microRNAs
+**Deep Recurrent Neural Network-Based Identification of Precursor microRNAs**
 
 Park, Seunghyun, et al. "Deep Recurrent Neural Network-Based Identification of Precursor microRNAs." Advances in Neural Information Processing Systems. 2017.
 
 http://papers.nips.cc/paper/6882-deep-recurrent-neural-network-based-identification-of-precursor-micrornas
-
-//
 
 Usage:
   python inference/deepMiRGene.py -i \<input file\> -o \<output file\>
@@ -15,7 +13,7 @@ Usage:
 
 
 
-Dependencies:
+**Dependencies:**
 1. biopython http://biopython.org/wiki/Download
 
 2. RNAfold (python version) https://www.tbi.univie.ac.at/RNA/#download
@@ -28,7 +26,7 @@ Dependencies:
 
 
 
-** Reproduce
+**Reproduce**
 1. reproduce/cv.py
 - cross-validation results for the human and cross-species dataset (Table 2)
 
